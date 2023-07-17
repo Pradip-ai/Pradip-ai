@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pradip-ai/Tabular-Data](https://github.com/Pradip-ai/Tabular-Data)
 
-- 👨‍💻 My Portfolio link [https://pradip-ai.github.io/Pradip-ai-pradipbhatta.github.io/](https://pradip-ai.github.io/Pradip-ai-pradipbhatta.github.io/)
+- 👨‍💻 My Portfolio link at https://pradip-ai.github.io/Pradip-ai-PbhattaPortfolioWebsite.github.io/
 
 - 📫 How to reach me **https://www.linkedin.com/in/pradip-bhatta-2a285b136/**
 
