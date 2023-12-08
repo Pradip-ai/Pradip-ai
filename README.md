@@ -7,7 +7,7 @@
 
 - 👨‍💻 My Portfolio link at https://pradip-ai.github.io/Pradip-ai-PbhattaPortfolioWebsite.github.io/
 
-- 📫 How to reach me **https://www.linkedin.com/in/pradip-bhatta-2a285b136/**
+- 📫 How to reach me **https://www.linkedin.com/in/pradip-bhatta-a327781a8/**
 
 
 <h3 align="left">Languages and Tools:</h3>
